@@ -1,2 +1,3 @@
 name: UoN EEC Document Repository
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
